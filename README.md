@@ -207,8 +207,10 @@ skills.
  - heromyth
  - Lucas Hinderberger
  - Paul Holden
+ - Warren Hu
  - IntellectualKitty
  - Aaron Jacobs
+ - Erik S. V. Jansson
  - Toni Jovanoski
  - Arseny Kapoulkine
  - Osman Keskin
@@ -248,6 +250,7 @@ skills.
  - Emmanuel Gil Peyrot
  - Cyril Pichard
  - Pieroman
+ - Philip Rideout
  - Jorge Rodriguez
  - Ed Ropple
  - Aleksey Rybalkin
@@ -262,6 +265,7 @@ skills.
  - Dmitri Shuralyov
  - Daniel Skorupski
  - Bradley Smith
+ - Patrick Snape
  - Julian Squires
  - Johannes Stein
  - Justin Stoecker
@@ -269,7 +273,7 @@ skills.
  - Nathan Sweet
  - TTK-Bandit
  - Sergey Tikhomirov
- - A. Tombs
+ - Arthur Tombs
  - Ioannis Tsakpinis
  - Samuli Tuomola
  - urraka
